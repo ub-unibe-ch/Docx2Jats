@@ -159,7 +159,7 @@ but because those who do not know how to pursue pleasure rationally
 encounter consequences that are extremely painful. Nor again is there
 anyone who loves or pursues or desires to obtain pain of itself, because
 it is pain, but because occasionally circumstances occur in which toil
-and pain can procure him some great pleasure.\
+and pain can procure him some great pleasure (Doe und Muster 2019).\
 To take a trivial example, which of us ever undertakes laborious
 physical exercise, except to obtain some advantage from it? But who has
 any right to find fault with a man who chooses to enjoy a pleasure that
@@ -176,10 +176,10 @@ account of the system, and expound the actual teachings of the great
 explorer of the truth, the master-builder of human happiness. No one
 rejects, dislikes, or avoids pleasure itself, because it is pleasure,
 but because those who do not know how to pursue pleasure rationally
-encounter consequences that are extremely painful. Nor again is there
-anyone who loves or pursues or desires to obtain pain of itself, because
-it is pain, but because occasionally circumstances occur in which toil
-and pain can procure him some great pleasure.
+encounter consequences that are extremely painful (J. Doe 2020). Nor
+again is there anyone who loves or pursues or desires to obtain pain of
+itself, because it is pain, but because occasionally circumstances occur
+in which toil and pain can procure him some great pleasure.
 
 ![](media/image1.jpg){width="6.3in" height="4.208333333333333in"}
 
@@ -219,7 +219,8 @@ indignation and dislike men who are so beguiled and demoralized by the
 charms of pleasure of the moment, so blinded by desire, that they cannot
 foresee the pain and trouble that are bound to ensue; and equal blame
 belongs to those who fail in their duty through weakness of will, which
-is the same as saying through shrinking from toil and pain.
+is the same as saying through shrinking from toil and pain (J. Doe
+2019).
 
   **Quelle:**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 **Übersetzung:**
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -234,7 +235,7 @@ but because those who do not know how to pursue pleasure rationally
 encounter consequences that are extremely painful. Nor again is there
 anyone who loves or pursues or desires to obtain pain of itself, because
 it is pain, but because occasionally circumstances occur in which toil
-and pain can procure him some great pleasure.
+and pain can procure him some great pleasure (Muster 2020).
 
 1.  A number list item
 
@@ -253,7 +254,8 @@ indignation and dislike men who are so beguiled and demoralized by the
 charms of pleasure of the moment, so blinded by desire, that they cannot
 foresee the pain and trouble that are bound to ensue; and equal blame
 belongs to those who fail in their duty through weakness of will, which
-is the same as saying through shrinking from toil and pain.
+is the same as saying through shrinking from toil and pain (J. Doe
+2020).
 
 -   A bullet list item
 
@@ -274,13 +276,15 @@ foresee the pain and trouble that are bound to ensue; and equal blame
 belongs to those who fail in their duty through weakness of will, which
 is the same as saying through shrinking from toil and pain.
 
-## Bibliography
+# Bibliography
 
-Doe, Jane. A very important book about a very important subject.
-Somewhere: Wherever University Press, 2020.
-
-Doe, John. Another very important book. Somewhere: Wherever University
-Press, 2019.
+Doe, J. + Muster, T. «Important congress paper.» *Paper presented at the
+Proceedings of the 2019 international conference on anything.*
+Soemwhere: Some country, 2019.Doe, Jane. *A very important book about a
+very important subject.* Somewhere: Wherever University Press, 2020.Doe,
+John. *Another very important book.* Somewhere: Wherever University
+Press, 2019.Muster, T. et al. «Important article.» *Important Article
+Journal* (67) 3 (2020): 625-638.
 
 [^1]: A short footnote.
 

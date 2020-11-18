@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN"
-                  "JATS-journalpublishing1.dtd">
+
 <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.0" article-type="other">
 <front>
 <journal-meta>
@@ -243,8 +242,8 @@
   encounter consequences that are extremely painful. Nor again is there
   anyone who loves or pursues or desires to obtain pain of itself,
   because it is pain, but because occasionally circumstances occur in
-  which toil and pain can procure him some great pleasure (Doe und
-  Muster 2019).
+  which toil and pain can procure him some great pleasure <xref ref-type="bibr" rid="bibr1">(Doe +
+  Muster 2019)</xref>.
   To take a trivial example, which of us ever undertakes laborious
   physical exercise, except to obtain some advantage from it? But who
   has any right to find fault with a man who chooses to enjoy a pleasure
@@ -262,7 +261,7 @@
   explorer of the truth, the master-builder of human happiness. No one
   rejects, dislikes, or avoids pleasure itself, because it is pleasure,
   but because those who do not know how to pursue pleasure rationally
-  encounter consequences that are extremely painful (J. Doe 2020). Nor
+  encounter consequences that are extremely painful <xref ref-type="bibr" rid="bibr2">(J. Doe 2020)</xref>. Nor
   again is there anyone who loves or pursues or desires to obtain pain
   of itself, because it is pain, but because occasionally circumstances
   occur in which toil and pain can procure him some great pleasure.</p>
@@ -322,7 +321,7 @@
   desire, that they cannot foresee the pain and trouble that are bound
   to ensue; and equal blame belongs to those who fail in their duty
   through weakness of will, which is the same as saying through
-  shrinking from toil and pain (J. Doe 2019).</p>
+  shrinking from toil and pain <xref ref-type="bibr" rid="bibr3">(J. Doe 2019).</xref></p>
   <table>
     <col align="left" />
     <col align="left" />
@@ -370,8 +369,8 @@
   encounter consequences that are extremely painful. Nor again is there
   anyone who loves or pursues or desires to obtain pain of itself,
   because it is pain, but because occasionally circumstances occur in
-  which toil and pain can procure him some great pleasure (Muster
-  2020).</p>
+  which toil and pain can procure him some great pleasure <xref ref-type="bibr" rid="4">(Muster
+  2020)</xref>.</p>
   <list list-type="order">
     <list-item>
       <p>A number list item</p>
@@ -396,7 +395,7 @@
   desire, that they cannot foresee the pain and trouble that are bound
   to ensue; and equal blame belongs to those who fail in their duty
   through weakness of will, which is the same as saying through
-  shrinking from toil and pain (J. Doe 2020).</p>
+  shrinking from toil and pain <xref ref-type="bibr" rid="bibr2">(J. Doe 2020)</xref>.</p>
   <list list-type="bullet">
     <list-item>
       <p>A bullet list item</p>
@@ -422,17 +421,6 @@
   to ensue; and equal blame belongs to those who fail in their duty
   through weakness of will, which is the same as saying through
   shrinking from toil and pain.</p>
-</sec>
-<sec id="bibliography">
-  <title>Bibliography</title>
-  <p>Doe, J. + Muster, T. «Important congress paper.» <italic>Paper
-  presented at the Proceedings of the 2019 international conference on
-  anything.</italic> Soemwhere: Some country, 2019.Doe, Jane. <italic>A
-  very important book about a very important subject.</italic>
-  Somewhere: Wherever University Press, 2020.Doe, John. <italic>Another
-  very important book.</italic> Somewhere: Wherever University Press,
-  2019.Muster, T. et al. «Important article.» <italic>Important Article
-  Journal</italic> (67) 3 (2020): 625-638.</p>
 </sec>
 </body>
 <back>
@@ -476,5 +464,27 @@
     him some great pleasure.</p>
   </fn>
 </fn-group>
+ <ref-list id="biblio">
+      <title>Bibliography</title>
+      <ref id="bibr1">
+        <mixed-citation>Doe, J. + Muster, T. «Important congress paper.» <italic>Paper
+  presented at the Proceedings of the 2019 international conference on
+  anything.</italic> Soemwhere: Some country, 2019.</mixed-citation>
+      </ref >
+      <ref id="bibr2">
+        <mixed-citation> Doe, Jane. <italic>A
+  very important book about a very important subject.</italic>
+  Somewhere: Wherever University Press, 2020.</mixed-citation>
+      </ref>
+	     <ref id="bibr3">
+        <mixed-citation>Doe, John. <italic>Another
+  very important book.</italic> Somewhere: Wherever University Press,
+  2019.</mixed-citation>
+      </ref>
+      <ref id="bibr4">
+        <mixed-citation>Muster, T. et al. «Important article.» <italic>Important Article
+  Journal</italic> (67) 3 (2020): 625-638.</mixed-citation>
+      </ref>
+    </ref-list>
 </back>
 </article>
