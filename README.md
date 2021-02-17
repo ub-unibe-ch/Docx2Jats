@@ -2,7 +2,7 @@
 
 .docx to jats via pandoc:
 
-pandoc -s -t jats EHB_template.docx -o EHB_template.xml
+command-line: pandoc -s -t jats EHB_template.docx -o EHB_template.xml
 
 
 
