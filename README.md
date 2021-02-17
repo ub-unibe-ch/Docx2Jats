@@ -2,17 +2,17 @@
 
 .docx to jats via pandoc:
 
-command-line: pandoc -s -t jats EHB_template.docx -o EHB_template.xml
+command-line: pandoc -s -t jats example.docx -o example.xml
 
 
 
 .docx to .md via pandoc:
 
-command line: pandoc --standalone --to markdown --metadata-file=article_neu.yaml --atx-headers -o article_neu-raw.md article_neu.docx 
+command line: pandoc --standalone --to markdown --metadata-file=example.yaml --atx-headers -o example-raw.md example.docx 
 
 
 
 .md to jats via pandoc:
 
-command line: pandoc --standalone --to jats -o article_neu.xml article_neu.md
+command line: pandoc --standalone --to jats -o example.xml example.md
 
