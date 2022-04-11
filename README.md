@@ -6,7 +6,7 @@ Requirements
 
 Preperation of the .docx file (see article_chapter.docx)
 - delete metadata (authors, abstract, publication dates, ...). Metadata have to be added manually after conversion
-- tage headings consequently (until 3 Levels)
+- tag headings consequently (until 3 Levels)
 - insert footnotes in MS Word
 
 Converting .docx to Jats xml
