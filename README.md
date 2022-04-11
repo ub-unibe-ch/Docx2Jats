@@ -19,19 +19,5 @@ Post-Processing
 - open the created xml file in an xml editor (for example https://notepad-plus-plus.org/ )
 - add metadata manually into the `<front></front>` element. See article_chapter_withBibliographyAndMetadata.xml as an orientation. 
 - if your article has a bibliography you have to put the references into `<ref><mixed-citations></mixed-citations></ref>` elements with a unique ID attribute. Afterwards you link the refs out of the text using the `<xref></xref>` element. See article_chapter_withBibliographyAndMetadata.xml
-  
-  
-  
-  
-  
-  
-.docx to .md via pandoc:
 
-command line: pandoc --standalone --to markdown --metadata-file=example.yaml --atx-headers -o example-raw.md example.docx 
-
-
-
-.md to jats via pandoc:
-
-command line: pandoc --standalone --to jats -o example.xml example.md
 
