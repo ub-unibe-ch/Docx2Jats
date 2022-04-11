@@ -5,20 +5,15 @@
 <front>
 <journal-meta>
 <journal-title-group>
-<journal-title>Journal of Scientific Studies</journal-title>
 </journal-title-group>
 <publisher>
 <publisher-name></publisher-name>
 </publisher>
 </journal-meta>
 <article-meta>
-<pub-date pub-type="epub" iso-8601-date="2020-01-01">
-<day>1</day>
-<month>1</month>
-<year>2020</year>
+<pub-date pub-type="epub">
+<year></year>
 </pub-date>
-<volume>1</volume>
-<issue>1</issue>
 </article-meta>
 </front>
 <body>
@@ -419,7 +414,7 @@
   very important book about a very important subject.</italic>
   Somewhere: Wherever University Press, 2020.Doe, John. <italic>Another
   very important book.</italic> Somewhere: Wherever University Press,
-  2019.Muster, T. et al. «Important article.» <italic>Important Article
+  2019.Muster, T. et al. «Important article.» <italic>Important Article
   Journal</italic> (67) 3 (2020): 625-638.</p>
 </sec>
 </body>
