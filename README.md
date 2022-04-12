@@ -12,7 +12,7 @@ Preperation of the .docx file (see article.docx)
 Converting .docx to Jats xml
 - save the prepared .docx file(s) in a directory where you want to do the conversions
 - open cmd shell
-- navigate to the specific folder (for exqample `C:\>cd \Users\name\documents\conversions` )
+- navigate to the specific folder (for exqample on a Windows system `C:\>cd \Users\name\documents\conversions` )
 - there you convert the wanted file by entering the following pandoc command: `pandoc -s -t jats example.docx -o example.xml` . the xml file will be automatically created
 
 Post-Processing
