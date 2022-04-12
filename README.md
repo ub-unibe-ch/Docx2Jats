@@ -4,7 +4,7 @@ Requirements
 - admin rights on your device
 - pandoc installed https://pandoc.org/installing.html
 
-Preperation of the .docx file (see article_chapter.docx)
+Preperation of the .docx file (see article.docx)
 - delete metadata (authors, abstract, publication dates, ...). Metadata have to be added manually after conversion
 - tag headings consequently (until 3 Levels)
 - insert footnotes in MS Word
@@ -17,7 +17,7 @@ Converting .docx to Jats xml
 
 Post-Processing
 - open the created xml file in an xml editor (for example https://notepad-plus-plus.org/ )
-- add metadata manually into the `<front></front>` element. See article_chapter_withBibliographyAndMetadata.xml as an orientation. 
-- if your article has a bibliography you have to put the references into `<ref><mixed-citations></mixed-citations></ref>` elements with a unique ID attribute. Afterwards you link the refs out of the text using the `<xref></xref>` element. See article_chapter_withBibliographyAndMetadata.xml
+- add metadata manually into the `<front></front>` element. See article_withBibliographyAndMetadata.xml as an orientation. 
+- if your article has a bibliography you have to put the references into `<ref><mixed-citations></mixed-citations></ref>` elements with a unique ID attribute. Afterwards you link the refs out of the text using the `<xref></xref>` element. See article_withBibliographyAndMetadata.xml
 
 
